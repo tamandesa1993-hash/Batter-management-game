@@ -1,0 +1,6 @@
+{
+  "name": "打率シミュレーター",
+  "description": "12チームの中で最強の打率チームを目指す、プロ野球打率シミュレーションゲーム。選手の育成、世代交代、そして輝かしい記録を選手名鑑に刻みましょう。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
